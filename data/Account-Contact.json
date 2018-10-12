@@ -15,6 +15,7 @@
                         },
                         "FirstName": "Richard",
                         "LastName": "Smith",
+                        "Phone": "5558981234",
                         "Title":  "CEO (former)",
                         "Email": "richard.smith@gmail.com",
                         "Description" : "Responsible for the worst data breach in US history, exposing PII and credit report data of over 145 million people.  Didn't encrypt."
