@@ -1,9 +1,13 @@
 {
-    "orgName": "Internal Demos",
-    "description": "Encryption Demo",
-    "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"],
-        "disabled": ["S1EncryptedStoragePref2"]
+  "orgName": "Internal Demos",
+  "description": "Encryption Demo",
+  "edition": "Developer",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
     }
+  }
 }
